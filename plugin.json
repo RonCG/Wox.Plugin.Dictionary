@@ -1,0 +1,13 @@
+﻿{
+  "ID": "CEA0FDFC6D3JSLSLEN388DC76F28844",
+  "ActionKeyword": "tr",
+  "Name": "Hello World CSharp",
+  "Description": "Auto-Detect Translator",
+  "Author": "RonCG",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Wox-launcher/Wox",
+  "ExecuteFileName": "Translator.dll",
+  "IcoPath": "Images\\transalate.png",
+  "Disabled": false
+}
