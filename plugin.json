@@ -1,7 +1,7 @@
 ﻿{
   "ID": "CEA0FDFC6D3JSLSLEN388DC76F28844",
-  "ActionKeyword": "tr",
-  "Name": "Hello World CSharp",
+  "ActionKeyword": "test",
+  "Name": "Auto-Detect Translator",
   "Description": "Auto-Detect Translator",
   "Author": "RonCG",
   "Version": "1.0.0",
