@@ -48,7 +48,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App.config" />
     <None Include="packages.config" />
     <Content Include="Images\dictionary.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
