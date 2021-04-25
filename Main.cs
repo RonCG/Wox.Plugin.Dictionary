@@ -15,7 +15,7 @@ namespace Wox.Plugin.Translator
             {
                 Title = "Hello World from Auto-Translator!",
                 SubTitle = $"Query: {query.Search}",
-                IcoPath = Path.Combine("Images", "translate.png")
+                IcoPath = Path.Combine("Images", "dictionary.png")
             };
             return new List<Result> { result };
         }

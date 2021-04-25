@@ -1,13 +1,13 @@
 ﻿{
-  "ID": "CEA0FDFC6D3JSLSLEN388DC76F28844",
-  "ActionKeyword": "test",
-  "Name": "Auto-Detect Translator",
-  "Description": "Auto-Detect Translator",
-  "Author": "RonCG",
-  "Version": "1.0.0",
-  "Language": "csharp",
-  "Website": "https://github.com/Wox-launcher/Wox",
-  "ExecuteFileName": "Translator.dll",
-  "IcoPath": "Images\\transalate.png",
-  "Disabled": false
+    "ID":"CEA0FDFC6D3B4085823D60DC76F28844",
+    "ActionKeyword":"d",
+    "Name":"Dictionary",
+    "Description":"English Dictionary with definitions and synonims",
+    "Author":"RonCG",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"https://github.com/Wox-launcher/Wox",
+    "ExecuteFileName":"Wox.Plugin.Translator.dll",
+    "IcoPath":"Images\\dictionary.png",
+    "Disabled":false
 }
