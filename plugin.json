@@ -2,12 +2,12 @@
     "ID":"CEA0FDFC6D3B4085823D60DC76F28844",
     "ActionKeyword":"d",
     "Name":"Dictionary",
-    "Description":"English Dictionary with definitions and synonims",
+    "Description":"English Dictionary with definitions and synonyms",
     "Author":"RonCG",
     "Version":"1.0.0",
     "Language":"csharp",
     "Website":"https://github.com/Wox-launcher/Wox",
-    "ExecuteFileName":"Wox.Plugin.Translator.dll",
+    "ExecuteFileName":"Wox.Plugin.Dictionary.dll",
     "IcoPath":"Images\\dictionary.png",
     "Disabled":false
 }

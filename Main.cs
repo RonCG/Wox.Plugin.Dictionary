@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Wox.Plugin.Translator
+namespace Wox.Plugin.Dictionary
 {
     class Main : IPlugin
     {

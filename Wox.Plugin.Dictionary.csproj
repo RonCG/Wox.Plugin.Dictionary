@@ -7,8 +7,8 @@
     <ProjectGuid>{E57CFC7C-69FC-48C4-9390-EE586EDDBCE2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Wox.Plugin.Translator</RootNamespace>
-    <AssemblyName>Wox.Plugin.Translator</AssemblyName>
+    <RootNamespace>Wox.Plugin.Dictionary</RootNamespace>
+    <AssemblyName>Wox.Plugin.Dictionary</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
